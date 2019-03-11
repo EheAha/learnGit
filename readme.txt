@@ -5,3 +5,4 @@ Git tracks changes.
 Creating a new branch is quick and simple
 My name is shanshan
 
+Test get new branch
